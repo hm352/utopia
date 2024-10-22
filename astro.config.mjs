@@ -8,4 +8,4 @@ export default defineConfig({
 	integrations: [react()],
 	site: 'https://hm352.github.io',
 	base: '/utopia'
-}});
+});
